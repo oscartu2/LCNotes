@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Container with most water
+- 2 pointers, compare area and decrease/increase back/front pointer if front<back/back>front
 ## Header 2
 ### Header 3
 
